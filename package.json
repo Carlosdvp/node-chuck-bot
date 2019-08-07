@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Carlosdvp/node-chuck-bot#readme",
   "devDependencies": {
     "express": "^4.17.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
   }
 }
