@@ -1,0 +1,22 @@
+{
+  "name": "node-chuck-bot",
+  "version": "1.0.0",
+  "description": "Node bot to consume Chuck Norris API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlosdvp/node-chuck-bot.git"
+  },
+  "author": "CDV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlosdvp/node-chuck-bot/issues"
+  },
+  "homepage": "https://github.com/Carlosdvp/node-chuck-bot#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
